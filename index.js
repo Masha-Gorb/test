@@ -103,4 +103,4 @@ function showFindMax(numArray) {
     alert(findMax(numArray));   
 }
 
-window.setTimeout(showFindMax, 5000, numArray)
+window.setTimeout(showFindMax, 3000, numArray)
