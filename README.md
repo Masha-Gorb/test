@@ -1,2 +1,2 @@
 # test-it-incubator
- Тестовое задание в it-incubator
+ Тестовое задание в it-incubator.
